@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sspuxkwUNo8=",
+  "dgSpecHash": "clyenDhLqZw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\1\\Desktop\\הדס\\OpticsProj\\OpticsProject\\OpticsProject\\OpticsProject.csproj",
+  "projectFilePath": "C:\\Users\\1\\Desktop\\הדס\\OpticsProj\\OpticsProject\\OpticsProj\\OpticsProject\\OpticsProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\1\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\1\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.0\\microsoft.entityframeworkcore.6.0.0.nupkg.sha512",

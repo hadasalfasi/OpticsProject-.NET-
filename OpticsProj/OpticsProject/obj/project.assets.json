@@ -439,6 +439,42 @@
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
         }
+      },
+      "BL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "DAL": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/BL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BL.dll": {}
+        }
+      },
+      "DAL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Models": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DAL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DAL.dll": {}
+        }
+      },
+      "Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Models.dll": {}
+        }
       }
     }
   },
@@ -1227,10 +1263,26 @@
         "system.runtime.compilerservices.unsafe.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "BL/1.0.0": {
+      "type": "project",
+      "path": "../BL/BL.csproj",
+      "msbuildProject": "../BL/BL.csproj"
+    },
+    "DAL/1.0.0": {
+      "type": "project",
+      "path": "../DAL/DAL.csproj",
+      "msbuildProject": "../DAL/DAL.csproj"
+    },
+    "Models/1.0.0": {
+      "type": "project",
+      "path": "../Models/Models.csproj",
+      "msbuildProject": "../Models/Models.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "BL >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 6.0.0",
       "Microsoft.EntityFrameworkCore.Design >= 6.0.0",
       "Microsoft.EntityFrameworkCore.Tools >= 6.0.0",
@@ -1246,11 +1298,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\1\\Desktop\\הדס\\OpticsProj\\OpticsProject\\OpticsProject\\OpticsProject.csproj",
+      "projectUniqueName": "C:\\Users\\1\\Desktop\\הדס\\OpticsProj\\OpticsProject\\OpticsProj\\OpticsProject\\OpticsProject.csproj",
       "projectName": "OpticsProject",
-      "projectPath": "C:\\Users\\1\\Desktop\\הדס\\OpticsProj\\OpticsProject\\OpticsProject\\OpticsProject.csproj",
+      "projectPath": "C:\\Users\\1\\Desktop\\הדס\\OpticsProj\\OpticsProject\\OpticsProj\\OpticsProject\\OpticsProject.csproj",
       "packagesPath": "C:\\Users\\1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\1\\Desktop\\הדס\\OpticsProj\\OpticsProject\\OpticsProject\\obj\\",
+      "outputPath": "C:\\Users\\1\\Desktop\\הדס\\OpticsProj\\OpticsProject\\OpticsProj\\OpticsProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -1272,7 +1324,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\1\\Desktop\\הדס\\OpticsProj\\OpticsProject\\OpticsProj\\BL\\BL.csproj": {
+              "projectPath": "C:\\Users\\1\\Desktop\\הדס\\OpticsProj\\OpticsProject\\OpticsProj\\BL\\BL.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
