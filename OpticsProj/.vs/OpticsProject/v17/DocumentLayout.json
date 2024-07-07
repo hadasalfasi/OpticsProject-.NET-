@@ -1,7 +1,40 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\1\\Desktop\\\u05D4\u05D3\u05E1\\OpticsProj\\OpticsProject\\OpticsProj\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0FF161B2-5B45-410E-A64C-73BAA74A2351}|Models\\Models.csproj|c:\\users\\1\\desktop\\\u05D4\u05D3\u05E1\\opticsproj\\opticsproject\\opticsproj\\models\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FF161B2-5B45-410E-A64C-73BAA74A2351}|Models\\Models.csproj|solutionrelative:models\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{252F350C-B1E0-488D-92AB-C08B8C972323}|DAL\\DAL.csproj|c:\\users\\1\\desktop\\\u05D4\u05D3\u05E1\\opticsproj\\opticsproject\\opticsproj\\dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{252F350C-B1E0-488D-92AB-C08B8C972323}|DAL\\DAL.csproj|solutionrelative:dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{252F350C-B1E0-488D-92AB-C08B8C972323}|DAL\\DAL.csproj|c:\\users\\1\\desktop\\\u05D4\u05D3\u05E1\\opticsproj\\opticsproject\\opticsproj\\dal\\profiles\\costumerprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{252F350C-B1E0-488D-92AB-C08B8C972323}|DAL\\DAL.csproj|solutionrelative:dal\\profiles\\costumerprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{252F350C-B1E0-488D-92AB-C08B8C972323}|DAL\\DAL.csproj|c:\\users\\1\\desktop\\\u05D4\u05D3\u05E1\\opticsproj\\opticsproject\\opticsproj\\dal\\dtos\\costumerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{252F350C-B1E0-488D-92AB-C08B8C972323}|DAL\\DAL.csproj|solutionrelative:dal\\dtos\\costumerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{252F350C-B1E0-488D-92AB-C08B8C972323}|DAL\\DAL.csproj|c:\\users\\1\\desktop\\\u05D4\u05D3\u05E1\\opticsproj\\opticsproject\\opticsproj\\dal\\data\\costumerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{252F350C-B1E0-488D-92AB-C08B8C972323}|DAL\\DAL.csproj|solutionrelative:dal\\data\\costumerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{252F350C-B1E0-488D-92AB-C08B8C972323}|DAL\\DAL.csproj|c:\\users\\1\\desktop\\\u05D4\u05D3\u05E1\\opticsproj\\opticsproject\\opticsproj\\dal\\interface\\icostumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{252F350C-B1E0-488D-92AB-C08B8C972323}|DAL\\DAL.csproj|solutionrelative:dal\\interface\\icostumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123D11A9-119D-4F33-8166-46CB5296AFF6}|OpticsProject\\OpticsProject.csproj|c:\\users\\1\\desktop\\\u05D4\u05D3\u05E1\\opticsproj\\opticsproject\\opticsproj\\opticsproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123D11A9-119D-4F33-8166-46CB5296AFF6}|OpticsProject\\OpticsProject.csproj|solutionrelative:opticsproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{252F350C-B1E0-488D-92AB-C08B8C972323}|DAL\\DAL.csproj|c:\\users\\1\\desktop\\\u05D4\u05D3\u05E1\\opticsproj\\opticsproject\\opticsproj\\dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{252F350C-B1E0-488D-92AB-C08B8C972323}|DAL\\DAL.csproj|solutionrelative:dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +42,115 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 7,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u05D4\u05D3\u05E1\\OpticsProj\\OpticsProject\\OpticsProj\\DAL\\Class1.cs",
+              "RelativeDocumentMoniker": "DAL\\Class1.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\\u05D4\u05D3\u05E1\\OpticsProj\\OpticsProject\\OpticsProj\\DAL\\Class1.cs",
+              "RelativeToolTip": "DAL\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T15:29:04.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CostumerProfiles.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u05D4\u05D3\u05E1\\OpticsProj\\OpticsProject\\OpticsProj\\DAL\\Profiles\\CostumerProfiles.cs",
+              "RelativeDocumentMoniker": "DAL\\Profiles\\CostumerProfiles.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\\u05D4\u05D3\u05E1\\OpticsProj\\OpticsProject\\OpticsProj\\DAL\\Profiles\\CostumerProfiles.cs",
+              "RelativeToolTip": "DAL\\Profiles\\CostumerProfiles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T15:28:49.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CostumerDto.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u05D4\u05D3\u05E1\\OpticsProj\\OpticsProject\\OpticsProj\\DAL\\Dtos\\CostumerDto.cs",
+              "RelativeDocumentMoniker": "DAL\\Dtos\\CostumerDto.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\\u05D4\u05D3\u05E1\\OpticsProj\\OpticsProject\\OpticsProj\\DAL\\Dtos\\CostumerDto.cs",
+              "RelativeToolTip": "DAL\\Dtos\\CostumerDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T15:23:06.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CostumerData.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u05D4\u05D3\u05E1\\OpticsProj\\OpticsProject\\OpticsProj\\DAL\\Data\\CostumerData.cs",
+              "RelativeDocumentMoniker": "DAL\\Data\\CostumerData.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\\u05D4\u05D3\u05E1\\OpticsProj\\OpticsProject\\OpticsProj\\DAL\\Data\\CostumerData.cs",
+              "RelativeToolTip": "DAL\\Data\\CostumerData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T15:21:55.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DAL",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u05D4\u05D3\u05E1\\OpticsProj\\OpticsProject\\OpticsProj\\DAL\\DAL.csproj",
+              "RelativeDocumentMoniker": "DAL\\DAL.csproj",
+              "ToolTip": "C:\\Users\\1\\Desktop\\\u05D4\u05D3\u05E1\\OpticsProj\\OpticsProject\\OpticsProj\\DAL\\DAL.csproj",
+              "RelativeToolTip": "DAL\\DAL.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-07T12:27:42.203Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICostumer.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u05D4\u05D3\u05E1\\OpticsProj\\OpticsProject\\OpticsProj\\DAL\\Interface\\ICostumer.cs",
+              "RelativeDocumentMoniker": "DAL\\Interface\\ICostumer.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\\u05D4\u05D3\u05E1\\OpticsProj\\OpticsProject\\OpticsProj\\DAL\\Interface\\ICostumer.cs",
+              "RelativeToolTip": "DAL\\Interface\\ICostumer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T12:38:52.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u05D4\u05D3\u05E1\\OpticsProj\\OpticsProject\\OpticsProj\\Models\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Models\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\\u05D4\u05D3\u05E1\\OpticsProj\\OpticsProject\\OpticsProj\\Models\\Models\\Customer.cs",
+              "RelativeToolTip": "Models\\Models\\Customer.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAUwCUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T12:38:29.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u05D4\u05D3\u05E1\\OpticsProj\\OpticsProject\\OpticsProj\\OpticsProject\\Program.cs",
+              "RelativeDocumentMoniker": "OpticsProject\\Program.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\\u05D4\u05D3\u05E1\\OpticsProj\\OpticsProject\\OpticsProj\\OpticsProject\\Program.cs",
+              "RelativeToolTip": "OpticsProject\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T12:29:03.069Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
