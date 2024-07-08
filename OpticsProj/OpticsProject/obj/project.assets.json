@@ -444,7 +444,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
-          "DAL": "1.0.0"
+          "DAL": "1.0.0",
+          "Npgsql.EntityFrameworkCore.PostgreSQL": "6.0.0"
         },
         "compile": {
           "bin/placeholder/BL.dll": {}
@@ -457,7 +458,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
-          "Models": "1.0.0"
+          "Models": "1.0.0",
+          "Npgsql.EntityFrameworkCore.PostgreSQL": "6.0.0"
         },
         "compile": {
           "bin/placeholder/DAL.dll": {}
@@ -469,6 +471,10 @@
       "Models/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "6.0.0",
+          "Npgsql.EntityFrameworkCore.PostgreSQL": "6.0.0"
+        },
         "compile": {
           "bin/placeholder/Models.dll": {}
         },
