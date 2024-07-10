@@ -19,31 +19,31 @@ namespace Models.Models
         public string GModel { get; set; }
         public int GPD { get; set; }
         //Right Eye
-        public double GRnumber { get; set; }
-        public double GRCyilinder { get; set; }
+        public string GRnumber { get; set; }
+        public string GRCyilinder { get; set; }
         public int  GRAxis { get; set; }
-        public double GRAddition { get; set; }
-        public double GRPrizma { get; set; }
+        public string GRAddition { get; set; }
+        public string GRPrizma { get; set; }
         public double GRIndex { get; set; }
         //Left Eye
-        public double GLnumber { get; set; }
-        public double GLCyilinder { get; set; }
+        public string GLnumber { get; set; }
+        public string GLCyilinder { get; set; }
         public int GLRAxis { get; set; }
-        public double GLAddition { get; set; }
-        public double GLPrizma { get; set; }
+        public string GLAddition { get; set; }
+        public string GLPrizma { get; set; }
         public double GLIndex { get; set; }
         
 
 
         //Contact Lenses
         //Right Eye
-        public double Rnumber { get; set; }
-        public double RCyilinder { get; set; }
+        public string Rnumber { get; set; }
+        public string RCyilinder { get; set; }
         public int RAxis { get; set; }
         public double RBC { get; set; }
         //Left Eye
-        public double lnumber { get; set; }
-        public double LCyilinder { get; set; }
+        public string lnumber { get; set; }
+        public string LCyilinder { get; set; }
         public int LAxis { get; set; }
         public double LBC { get; set; }
 
@@ -53,18 +53,18 @@ namespace Models.Models
         //Glasses details
         public int PreGPD { get; set; }
         //Right Eye
-        public double PreGRnumber { get; set; }
-        public double PreGRCyilinder { get; set; }
+        public string PreGRnumber { get; set; }
+        public string PreGRCyilinder { get; set; }
         public int PreGRAxis { get; set; }
-        public double PreGRAddition { get; set; }
-        public double PreGRPrizma { get; set; }
+        public string PreGRAddition { get; set; }
+        public string PreGRPrizma { get; set; }
         public double PreGRIndex { get; set; }
         //Left Eye
-        public double PreGLnumber { get; set; }
-        public double PreGLCyilinder { get; set; }
+        public string PreGLnumber { get; set; }
+        public string PreGLCyilinder { get; set; }
         public int PreGLRAxis { get; set; }
-        public double PreGLAddition { get; set; }
-        public double PreGLPrizma { get; set; }
+        public string PreGLAddition { get; set; }
+        public string PreGLPrizma { get; set; }
         public double PreGLIndex { get; set; }
 
 
