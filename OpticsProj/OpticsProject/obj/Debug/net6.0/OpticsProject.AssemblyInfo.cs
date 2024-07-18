@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OpticsProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6e89148cf0d8a68b2d4739cf8803af6291f13d52")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dafc4c1458baf3d2a87a7f81f4d1178d93e2884f")]
 [assembly: System.Reflection.AssemblyProductAttribute("OpticsProject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OpticsProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

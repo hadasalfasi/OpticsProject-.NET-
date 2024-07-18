@@ -16,7 +16,5 @@ namespace Models.Models
         public DbSet<Customer> Custumers { get; set; }
 
 
-
-
     }
 }

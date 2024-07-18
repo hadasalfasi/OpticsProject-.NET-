@@ -1,3 +1,4 @@
+using BL;
 using DAL.Data;
 using DAL.Interface;
 using Microsoft.EntityFrameworkCore;
@@ -26,7 +27,7 @@ builder.Services.AddCors(op =>
 
 //connection string
 builder.Services.AddControllersWithViews();
-builder.Services.AddDbContext<CustomerContext>(options =>options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultDataBase")));
+builder.Services.AddDbContext<CustomerContext>(options => options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultDataBase")));
 builder.Services.AddScoped<ICustomer, CustumerData>();
 var app = builder.Build();
 // Configure the HTTP request pipeline.
@@ -37,9 +38,9 @@ if (app.Environment.IsDevelopment())
 }
 app.UseCors(myCors);
 app.UseHttpsRedirection();
-
 app.UseAuthorization();
-
 app.MapControllers();
+app.UseMiddleware<IdValidationMiddleware>();
+
 
 app.Run();

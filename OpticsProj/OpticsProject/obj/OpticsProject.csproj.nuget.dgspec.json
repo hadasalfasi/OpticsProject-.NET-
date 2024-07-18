@@ -36,6 +36,9 @@
             "projectReferences": {
               "C:\\Users\\1\\Desktop\\הדס\\OpticsProj\\OpticsProject\\OpticsProj\\DAL\\DAL.csproj": {
                 "projectPath": "C:\\Users\\1\\Desktop\\הדס\\OpticsProj\\OpticsProject\\OpticsProj\\DAL\\DAL.csproj"
+              },
+              "C:\\Users\\1\\Desktop\\הדס\\OpticsProj\\OpticsProject\\OpticsProj\\Models\\Models.csproj": {
+                "projectPath": "C:\\Users\\1\\Desktop\\הדס\\OpticsProj\\OpticsProject\\OpticsProj\\Models\\Models.csproj"
               }
             }
           }
@@ -55,6 +58,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
             "Npgsql.EntityFrameworkCore.PostgreSQL": {
               "target": "Package",
               "version": "[6.0.0, )"
@@ -268,6 +275,12 @@
             "projectReferences": {
               "C:\\Users\\1\\Desktop\\הדס\\OpticsProj\\OpticsProject\\OpticsProj\\BL\\BL.csproj": {
                 "projectPath": "C:\\Users\\1\\Desktop\\הדס\\OpticsProj\\OpticsProject\\OpticsProj\\BL\\BL.csproj"
+              },
+              "C:\\Users\\1\\Desktop\\הדס\\OpticsProj\\OpticsProject\\OpticsProj\\DAL\\DAL.csproj": {
+                "projectPath": "C:\\Users\\1\\Desktop\\הדס\\OpticsProj\\OpticsProject\\OpticsProj\\DAL\\DAL.csproj"
+              },
+              "C:\\Users\\1\\Desktop\\הדס\\OpticsProj\\OpticsProject\\OpticsProj\\Models\\Models.csproj": {
+                "projectPath": "C:\\Users\\1\\Desktop\\הדס\\OpticsProj\\OpticsProject\\OpticsProj\\Models\\Models.csproj"
               }
             }
           }
