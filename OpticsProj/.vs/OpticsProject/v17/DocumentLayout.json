@@ -3,20 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\1\\Desktop\\\u05D4\u05D3\u05E1\\OpticsProj\\OpticsProject\\OpticsProj\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{123D11A9-119D-4F33-8166-46CB5296AFF6}|OpticsProject\\OpticsProject.csproj|c:\\users\\1\\desktop\\\u05D4\u05D3\u05E1\\opticsproj\\opticsproject\\opticsproj\\opticsproject\\controllers\\custoumerscontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123D11A9-119D-4F33-8166-46CB5296AFF6}|OpticsProject\\OpticsProject.csproj|solutionrelative:opticsproject\\controllers\\custoumerscontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123D11A9-119D-4F33-8166-46CB5296AFF6}|OpticsProject\\OpticsProject.csproj|c:\\users\\1\\desktop\\\u05D4\u05D3\u05E1\\opticsproj\\opticsproject\\opticsproj\\opticsproject\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123D11A9-119D-4F33-8166-46CB5296AFF6}|OpticsProject\\OpticsProject.csproj|solutionrelative:opticsproject\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBC5D4F0-4618-4CC3-8BB2-C5262E0C76FB}|BL\\BL.csproj|c:\\users\\1\\desktop\\\u05D4\u05D3\u05E1\\opticsproj\\opticsproject\\opticsproj\\bl\\jwtmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBC5D4F0-4618-4CC3-8BB2-C5262E0C76FB}|BL\\BL.csproj|solutionrelative:bl\\jwtmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{123D11A9-119D-4F33-8166-46CB5296AFF6}|OpticsProject\\OpticsProject.csproj|c:\\users\\1\\desktop\\\u05D4\u05D3\u05E1\\opticsproj\\opticsproject\\opticsproj\\opticsproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{123D11A9-119D-4F33-8166-46CB5296AFF6}|OpticsProject\\OpticsProject.csproj|solutionrelative:opticsproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BBC5D4F0-4618-4CC3-8BB2-C5262E0C76FB}|BL\\BL.csproj|c:\\users\\1\\desktop\\\u05D4\u05D3\u05E1\\opticsproj\\opticsproject\\opticsproj\\bl\\idvalidationmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BBC5D4F0-4618-4CC3-8BB2-C5262E0C76FB}|BL\\BL.csproj|solutionrelative:bl\\idvalidationmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BBC5D4F0-4618-4CC3-8BB2-C5262E0C76FB}|BL\\BL.csproj|c:\\users\\1\\desktop\\\u05D4\u05D3\u05E1\\opticsproj\\opticsproject\\opticsproj\\bl\\logmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBC5D4F0-4618-4CC3-8BB2-C5262E0C76FB}|BL\\BL.csproj|solutionrelative:bl\\logmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BBC5D4F0-4618-4CC3-8BB2-C5262E0C76FB}|BL\\BL.csproj|c:\\users\\1\\desktop\\\u05D4\u05D3\u05E1\\opticsproj\\opticsproject\\opticsproj\\bl\\bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{BBC5D4F0-4618-4CC3-8BB2-C5262E0C76FB}|BL\\BL.csproj|solutionrelative:bl\\bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{123D11A9-119D-4F33-8166-46CB5296AFF6}|OpticsProject\\OpticsProject.csproj|c:\\users\\1\\desktop\\\u05D4\u05D3\u05E1\\opticsproj\\opticsproject\\opticsproj\\opticsproject\\controllers\\custoumerscontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{123D11A9-119D-4F33-8166-46CB5296AFF6}|OpticsProject\\OpticsProject.csproj|solutionrelative:opticsproject\\controllers\\custoumerscontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{123D11A9-119D-4F33-8166-46CB5296AFF6}|OpticsProject\\OpticsProject.csproj|c:\\users\\1\\desktop\\\u05D4\u05D3\u05E1\\opticsproj\\opticsproject\\opticsproj\\opticsproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{123D11A9-119D-4F33-8166-46CB5296AFF6}|OpticsProject\\OpticsProject.csproj|solutionrelative:opticsproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBC5D4F0-4618-4CC3-8BB2-C5262E0C76FB}|BL\\BL.csproj|c:\\users\\1\\desktop\\\u05D4\u05D3\u05E1\\opticsproj\\opticsproject\\opticsproj\\bl\\idvalidationmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBC5D4F0-4618-4CC3-8BB2-C5262E0C76FB}|BL\\BL.csproj|solutionrelative:bl\\idvalidationmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{252F350C-B1E0-488D-92AB-C08B8C972323}|DAL\\DAL.csproj|c:\\users\\1\\desktop\\\u05D4\u05D3\u05E1\\opticsproj\\opticsproject\\opticsproj\\dal\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{252F350C-B1E0-488D-92AB-C08B8C972323}|DAL\\DAL.csproj|solutionrelative:dal\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{252F350C-B1E0-488D-92AB-C08B8C972323}|DAL\\DAL.csproj|c:\\users\\1\\desktop\\\u05D4\u05D3\u05E1\\opticsproj\\opticsproject\\opticsproj\\dal\\data\\custumerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,10 +59,6 @@
       "RelativeMoniker": "D:0:0:{252F350C-B1E0-488D-92AB-C08B8C972323}|DAL\\DAL.csproj|solutionrelative:dal\\interface\\icustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{123D11A9-119D-4F33-8166-46CB5296AFF6}|OpticsProject\\OpticsProject.csproj|c:\\users\\1\\desktop\\\u05D4\u05D3\u05E1\\opticsproj\\opticsproject\\opticsproj\\opticsproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{123D11A9-119D-4F33-8166-46CB5296AFF6}|OpticsProject\\OpticsProject.csproj|solutionrelative:opticsproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{252F350C-B1E0-488D-92AB-C08B8C972323}|DAL\\DAL.csproj|c:\\users\\1\\desktop\\\u05D4\u05D3\u05E1\\opticsproj\\opticsproject\\opticsproj\\dal\\dtos\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{252F350C-B1E0-488D-92AB-C08B8C972323}|DAL\\DAL.csproj|solutionrelative:dal\\dtos\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -58,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,71 +86,137 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BL",
-              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u05D4\u05D3\u05E1\\OpticsProj\\OpticsProject\\OpticsProj\\BL\\BL.csproj",
-              "RelativeDocumentMoniker": "BL\\BL.csproj",
-              "ToolTip": "C:\\Users\\1\\Desktop\\\u05D4\u05D3\u05E1\\OpticsProj\\OpticsProject\\OpticsProj\\BL\\BL.csproj",
-              "RelativeToolTip": "BL\\BL.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-18T20:50:52.909Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IdValidationMiddleware.cs",
-              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u05D4\u05D3\u05E1\\OpticsProj\\OpticsProject\\OpticsProj\\BL\\IdValidationMiddleware.cs",
-              "RelativeDocumentMoniker": "BL\\IdValidationMiddleware.cs",
-              "ToolTip": "C:\\Users\\1\\Desktop\\\u05D4\u05D3\u05E1\\OpticsProj\\OpticsProject\\OpticsProj\\BL\\IdValidationMiddleware.cs",
-              "RelativeToolTip": "BL\\IdValidationMiddleware.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAswBoAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T13:01:26.523Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u05D4\u05D3\u05E1\\OpticsProj\\OpticsProject\\OpticsProj\\OpticsProject\\Program.cs",
               "RelativeDocumentMoniker": "OpticsProject\\Program.cs",
               "ToolTip": "C:\\Users\\1\\Desktop\\\u05D4\u05D3\u05E1\\OpticsProj\\OpticsProject\\OpticsProj\\OpticsProject\\Program.cs",
               "RelativeToolTip": "OpticsProject\\Program.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAACgAAAAXAAAA",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAGMAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-10T09:27:15.972Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u05D4\u05D3\u05E1\\OpticsProj\\OpticsProject\\OpticsProj\\OpticsProject\\appsettings.json",
+              "RelativeDocumentMoniker": "OpticsProject\\appsettings.json",
+              "ToolTip": "C:\\Users\\1\\Desktop\\\u05D4\u05D3\u05E1\\OpticsProj\\OpticsProject\\OpticsProj\\OpticsProject\\appsettings.json",
+              "RelativeToolTip": "OpticsProject\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-22T09:42:48.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JWTMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u05D4\u05D3\u05E1\\OpticsProj\\OpticsProject\\OpticsProj\\BL\\JWTMiddleware.cs",
+              "RelativeDocumentMoniker": "BL\\JWTMiddleware.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\\u05D4\u05D3\u05E1\\OpticsProj\\OpticsProject\\OpticsProj\\BL\\JWTMiddleware.cs",
+              "RelativeToolTip": "BL\\JWTMiddleware.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T09:46:56.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u05D4\u05D3\u05E1\\OpticsProj\\OpticsProject\\OpticsProj\\OpticsProject\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "OpticsProject\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\\u05D4\u05D3\u05E1\\OpticsProj\\OpticsProject\\OpticsProj\\OpticsProject\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "OpticsProject\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T09:28:33.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u05D4\u05D3\u05E1\\OpticsProj\\OpticsProject\\OpticsProj\\DAL\\Dtos\\LoginDto.cs",
+              "RelativeDocumentMoniker": "DAL\\Dtos\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\\u05D4\u05D3\u05E1\\OpticsProj\\OpticsProject\\OpticsProj\\DAL\\Dtos\\LoginDto.cs",
+              "RelativeToolTip": "DAL\\Dtos\\LoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T09:19:00.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "CustoumersControllers.cs",
               "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u05D4\u05D3\u05E1\\OpticsProj\\OpticsProject\\OpticsProj\\OpticsProject\\Controllers\\CustoumersControllers.cs",
               "RelativeDocumentMoniker": "OpticsProject\\Controllers\\CustoumersControllers.cs",
               "ToolTip": "C:\\Users\\1\\Desktop\\\u05D4\u05D3\u05E1\\OpticsProj\\OpticsProject\\OpticsProj\\OpticsProject\\Controllers\\CustoumersControllers.cs",
               "RelativeToolTip": "OpticsProject\\Controllers\\CustoumersControllers.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAYwBQAAAAIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-10T09:27:11.189Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
+              "Title": "LogMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u05D4\u05D3\u05E1\\OpticsProj\\OpticsProject\\OpticsProj\\BL\\LogMiddleware.cs",
+              "RelativeDocumentMoniker": "BL\\LogMiddleware.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\\u05D4\u05D3\u05E1\\OpticsProj\\OpticsProject\\OpticsProj\\BL\\LogMiddleware.cs",
+              "RelativeToolTip": "BL\\LogMiddleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T10:36:51.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IdValidationMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u05D4\u05D3\u05E1\\OpticsProj\\OpticsProject\\OpticsProj\\BL\\IdValidationMiddleware.cs",
+              "RelativeDocumentMoniker": "BL\\IdValidationMiddleware.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\\u05D4\u05D3\u05E1\\OpticsProj\\OpticsProject\\OpticsProj\\BL\\IdValidationMiddleware.cs",
+              "RelativeToolTip": "BL\\IdValidationMiddleware.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAYwF0AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T13:01:26.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BL.csproj",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u05D4\u05D3\u05E1\\OpticsProj\\OpticsProject\\OpticsProj\\BL\\BL.csproj",
+              "RelativeDocumentMoniker": "BL\\BL.csproj",
+              "ToolTip": "C:\\Users\\1\\Desktop\\\u05D4\u05D3\u05E1\\OpticsProj\\OpticsProject\\OpticsProj\\BL\\BL.csproj",
+              "RelativeToolTip": "BL\\BL.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-21T09:46:18.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "ICustomer.cs",
               "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u05D4\u05D3\u05E1\\OpticsProj\\OpticsProject\\OpticsProj\\DAL\\Interface\\ICustomer.cs",
               "RelativeDocumentMoniker": "DAL\\Interface\\ICustomer.cs",
               "ToolTip": "C:\\Users\\1\\Desktop\\\u05D4\u05D3\u05E1\\OpticsProj\\OpticsProject\\OpticsProj\\DAL\\Interface\\ICustomer.cs",
               "RelativeToolTip": "DAL\\Interface\\ICustomer.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAATAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBZwAwAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T09:33:18.004Z"
+              "WhenOpened": "2024-07-10T09:33:18.004Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "Customer.cs",
               "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u05D4\u05D3\u05E1\\OpticsProj\\OpticsProject\\OpticsProj\\Models\\Models\\Customer.cs",
               "RelativeDocumentMoniker": "Models\\Models\\Customer.cs",
@@ -142,11 +224,12 @@
               "RelativeToolTip": "Models\\Models\\Customer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T09:00:12.177Z"
+              "WhenOpened": "2024-07-10T09:00:12.177Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "CustumerData.cs",
               "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u05D4\u05D3\u05E1\\OpticsProj\\OpticsProject\\OpticsProj\\DAL\\Data\\CustumerData.cs",
               "RelativeDocumentMoniker": "DAL\\Data\\CustumerData.cs",
@@ -159,7 +242,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "CustomerProfiles.cs",
               "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u05D4\u05D3\u05E1\\OpticsProj\\OpticsProject\\OpticsProj\\DAL\\Profiles\\CustomerProfiles.cs",
               "RelativeDocumentMoniker": "DAL\\Profiles\\CustomerProfiles.cs",
@@ -172,7 +255,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "CustomerContext.cs",
               "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u05D4\u05D3\u05E1\\OpticsProj\\OpticsProject\\OpticsProj\\Models\\Models\\CustomerContext.cs",
               "RelativeDocumentMoniker": "Models\\Models\\CustomerContext.cs",
@@ -185,19 +268,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u05D4\u05D3\u05E1\\OpticsProj\\OpticsProject\\OpticsProj\\OpticsProject\\appsettings.json",
-              "RelativeDocumentMoniker": "OpticsProject\\appsettings.json",
-              "ToolTip": "C:\\Users\\1\\Desktop\\\u05D4\u05D3\u05E1\\OpticsProj\\OpticsProject\\OpticsProj\\OpticsProject\\appsettings.json",
-              "RelativeToolTip": "OpticsProject\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-14T23:23:04.213Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "CustomerDto.cs",
               "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u05D4\u05D3\u05E1\\OpticsProj\\OpticsProject\\OpticsProj\\DAL\\Dtos\\CustomerDto.cs",
               "RelativeDocumentMoniker": "DAL\\Dtos\\CustomerDto.cs",
@@ -205,11 +276,12 @@
               "RelativeToolTip": "DAL\\Dtos\\CustomerDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAEYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T09:56:19.994Z"
+              "WhenOpened": "2024-07-10T09:56:19.994Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "20240710091359_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u05D4\u05D3\u05E1\\OpticsProj\\OpticsProject\\OpticsProj\\Models\\Migrations\\20240710091359_InitialCreate.cs",
               "RelativeDocumentMoniker": "Models\\Migrations\\20240710091359_InitialCreate.cs",
@@ -217,7 +289,8 @@
               "RelativeToolTip": "Models\\Migrations\\20240710091359_InitialCreate.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T09:14:00.292Z"
+              "WhenOpened": "2024-07-10T09:14:00.292Z",
+              "EditorCaption": ""
             }
           ]
         }

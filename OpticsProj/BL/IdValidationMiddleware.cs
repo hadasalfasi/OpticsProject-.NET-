@@ -10,6 +10,7 @@ using System.Xml.Linq;
 using Models.Models;
 using Microsoft.EntityFrameworkCore;
 using AutoMapper;
+
 namespace BL
 {
     public class IdValidationMiddleware
@@ -19,7 +20,7 @@ namespace BL
         public IdValidationMiddleware(RequestDelegate next)
         {
             _next = next;
-           
+
         }
 
 
@@ -29,11 +30,11 @@ namespace BL
                  context.Request.Method.Equals("PUT", StringComparison.OrdinalIgnoreCase)) &&
                 context.Request.Body != null)
             {
-                //context.Request.EnableBuffering(); // Enable request body buffering
+                context.Request.EnableBuffering();
                 using (var reader = new StreamReader(context.Request.Body, leaveOpen: true))
                 {
                     var requestBody = await reader.ReadToEndAsync();
-                    //context.Request.Body.Position = 0; // Reset the position of the stream for the next middleware
+                    context.Request.Body.Position = 0;
 
                     try
                     {
@@ -65,7 +66,39 @@ namespace BL
                     }
                 }
             }
+            //else
+            //{
+            //    if ((context.Request.Method.Equals("DELETE", StringComparison.OrdinalIgnoreCase) ||
+            //         context.Request.Method.Equals("GET", StringComparison.OrdinalIgnoreCase)) &&
+            //        context.Request.Body != null)
+            //    {// Check query string for 'id'
+            //        string idString = context.Request.Query["id"];
 
+            //        if (string.IsNullOrEmpty(idString))
+            //        {
+            //            // Check route data for 'id'
+            //            if (context.Request.RouteValues.TryGetValue("id", out var routeValue))
+            //            {
+            //                idString = routeValue?.ToString();
+            //            }
+            //        }
+
+            //        if (long.TryParse(idString, out long id))
+            //        {
+            //            if (!IsValidIsraeliId(id))
+            //            {
+            //                context.Response.StatusCode = 400; // Bad Request
+            //                await context.Response.WriteAsync("Invalid Israeli ID.");
+            //                return;
+            //            }
+            //        }
+            //        else
+            //        {
+            //            context.Response.StatusCode = 400; // Bad Request
+            //            await context.Response.WriteAsync("ID is missing or invalid.");
+            //            return;
+            //        }
+            //    }
             await _next(context);
         }
 
