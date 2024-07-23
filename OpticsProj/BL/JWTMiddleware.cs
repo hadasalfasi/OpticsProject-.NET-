@@ -6,6 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Microsoft.IdentityModel.Tokens;
 using System.IdentityModel.Tokens.Jwt;
+using System.Security.Claims;
 
 namespace BL
 {
@@ -48,8 +49,9 @@ namespace BL
 
                 var jwtToken = (JwtSecurityToken)validatedToken;
                 var userId = jwtToken.Claims.First(x => x.Type == "sub").Value;
-
+                var role = jwtToken.Claims.First(x => x.Type == ClaimTypes.Role).Value;
                 context.Items["User"] = userId;
+                context.Items["Role"] = role;
             }
             catch (Exception ex)
             {

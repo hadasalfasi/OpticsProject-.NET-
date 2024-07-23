@@ -14,6 +14,12 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 string myCors = "_myCors";
 builder.Services.AddControllers();
+builder.Services.AddAuthorization(options =>
+{
+    options.AddPolicy("RequireAdminRole", policy => policy.RequireRole("Admin"));
+    options.AddPolicy("RequireCustomerRole", policy => policy.RequireRole("Customer"));
+    options.AddPolicy("AdminOrCustomer", policy =>policy.RequireRole("Admin", "Customer"));
+});
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 //builder.Services.AddSwaggerGen();
@@ -21,7 +27,7 @@ builder.Services.AddSwaggerGen(c =>
 {
 c.SwaggerDoc("v1", new OpenApiInfo { Title = "My API", Version = "v1" });
 
-// ????? ????? ?-Swagger
+
 c.AddSecurityDefinition("Bearer", new OpenApiSecurityScheme
 {
     Name = "Authorization",
@@ -47,6 +53,7 @@ c.AddSecurityDefinition("Bearer", new OpenApiSecurityScheme
     });
 });
 builder.Services.AddControllersWithViews();
+
 builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 builder.Services.AddCors(op =>
 {
